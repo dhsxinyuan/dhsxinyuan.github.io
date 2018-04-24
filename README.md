@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css"> 
 <title> This is my website </title>
 </head>
 <body>
@@ -14,9 +14,9 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <br>
 <p>Here are the things I love to do the most : </p> 
 <ul>
+<li>Doing Art</li>
+<a href="https://en.wikipedia.org/wiki/Art">Drawing etc</a>
 <li>Eating Snacks and Desserts</li>
-<a href="https://en.wikipedia.org/wiki/Art">Drawing</a>
-<li>Socialising with People</li>
 <li>Reading Books</li>
 </ul>
 </body>
